@@ -1,0 +1,37 @@
+post1
+2
+c1	u1	Best of Luck
+c2	u7	Interesting
+post2
+0
+post3
+3
+c3	u6	Any plans for Get Together?
+c4	u7	Yes BBQ
+c5	u8	Lunch Buffet please
+post4
+1
+c6	u7	Good Luck for your Result
+post5
+3
+c7	p1	Followers please try this recipe and give your feedback
+c8	u1	Yummy
+c9	u11	One pink tea for me
+post6
+0
+post7
+1
+c10	u12	Rumi is great
+post8
+1
+c11	u3	Happy Birthday Aunty
+post9
+1
+c12	u11	Happy Birthday Uncle
+post10
+1
+c13	u11	Celebrations???
+post11
+0
+post12
+0
